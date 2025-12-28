@@ -1,0 +1,45 @@
+# KiCad temporary files
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*.pro-user
+*.kicad_prl
+*.kicad_dru
+*.kicad_wks
+*.kicad_sym
+*.kicad_mod
+*.kicad_wks
+*.net
+*.dsn
+*.xml
+*.erc
+*.drc
+*.rpt
+*.sch
+-cache.lib
+-rescue.lib
+-sym-lib-table
+-fp-lib-table
+
+# KiCad project directories
+*.kicad_pcb/
+*.kicad_sch/
+
+# Build outputs
+*.zip
+*.7z
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled firmware
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
